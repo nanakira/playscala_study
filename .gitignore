@@ -15,4 +15,16 @@ server.pid
 *.eml
 /dist/
 .cache
+
+# Additional
+.sbtserver
+project/.sbtserver
+project/.sbtserver.lock
+project/play-fork-run.sbt
+project/sbt-ui.sbt
+build.sbt
+
+
+
+# Editor
 *.sublime-*
