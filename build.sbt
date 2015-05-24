@@ -12,6 +12,6 @@ libraryDependencies ++= Seq(
   cache,
   ws
 )
-
+libraryDependencies += "postgresql" % "postgresql" % "8.4-702.jdbc4"
 
 fork in run := true
