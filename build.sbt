@@ -1,4 +1,4 @@
-name := """todolist"""
+name := """my-scala-todolist"""
 
 version := "1.0-SNAPSHOT"
 
